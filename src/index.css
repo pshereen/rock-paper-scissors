@@ -9,7 +9,6 @@
   .winner-ring .ring {
     position: absolute;
     border-radius: 50%;
-    /* border: 20px solid rgba(59, 130, 246, 0.2); Tailwind's blue-500 */
     box-shadow: 0 0 60px 20px rgba(255, 255, 255, 0.2);
 
     top: 50%;

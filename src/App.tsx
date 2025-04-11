@@ -38,7 +38,7 @@ function App() {
   setComputerChoice(random);
   setResult(outcome);
 
-  setTimesPlayed(prev => prev + 1); // ✅ increment
+  setTimesPlayed(prev => prev + 1);
   if (outcome === 'win') setScore(prev => prev + 1);
   if (outcome === 'lose') setScore(prev => Math.max(0, prev - 1));
 }, 3000);
