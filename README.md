@@ -2,6 +2,9 @@
 
 A classic Rock Paper Scissors game with a modern twist — featuring delayed reveal animation and score tracking. Built using modern frontend technologies including **React**, **TypeScript**, and **Tailwind CSS**.
 
+![image](https://github.com/user-attachments/assets/8e3e105f-207e-4e71-a1a2-ea9f5542aad2)
+
+
 ## 🎮 Features
 
 - 🔁 Classic gameplay with Rock, Paper, and Scissors
